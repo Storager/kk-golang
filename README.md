@@ -1,0 +1,1 @@
+# Special template for .devcontainters/gitpods
