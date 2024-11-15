@@ -11,7 +11,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"golang.go@0.36.0"
+				// "golang.go@0.36.0"
 			]
 		}
 	}
