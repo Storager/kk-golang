@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-	"name": "Ubuntu",
+	"name": "Python",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	// "image": "mcr.microsoft.com/devcontainers/base:focal"
 	// "image": "ubuntu:20.04"
@@ -11,7 +11,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				// "golang.go@0.36.0"
+				"ms-python.python",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
